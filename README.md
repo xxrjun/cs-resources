@@ -2,10 +2,10 @@
 
 ## 目錄
 
-- [開發工具 (Developer Tools)](#開發工具 "Developer Tools")
-- [程式語言學習 (Programming Language)](#程式語言學習 "Programming Language")
-- [網頁開發 (Web Development)](#網頁開發 "Web Development")
-- [知識 (Knowledge)](#知識 "Knowledge")
+- [開發工具 (Developer Tools)](#開發工具-developer-tools")
+- [程式語言學習 (Programming Language)](#程式語言學習-programming-language")
+- [網頁開發 (Web Development)](#網頁開發-web-development)
+- [知識 (Knowledge)](#知識-knowledge)
 - [考資工所](#考資工所)
 
 ## 開發工具 (Developer Tools)
