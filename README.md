@@ -10,7 +10,7 @@
 
 ## 開發工具 (Developer Tools)
 
-下方軟體許多都可以透過  **[GitHub Student Developer Pack](https://education.github.com/pack)** 免費取得授權或升級至專業版，善用當學生的資源阿阿阿。
+下方軟體許多都可以透過  **[GitHub Student Developer Pack](https://education.github.com/pack)** 免費取得授權或升級至專業版，善用當學生的資源阿阿。
 
 ### [Git](https://gitforwindows.org/) - 免費、開源的版本控制軟體
 
