@@ -2,11 +2,24 @@
 
 ## 目錄
 
-- [開發工具 (Developer Tools)](#開發工具-developer-tools")
-- [程式語言學習 (Programming Language)](#程式語言學習-programming-language")
-- [網頁開發 (Web Development)](#網頁開發-web-development)
-- [知識 (Knowledge)](#知識-knowledge)
-- [考資工所](#考資工所)
+- [CS Resource](#cs-resource)
+  - [目錄](#目錄)
+  - [開發工具 (Developer Tools)](#開發工具-developer-tools)
+    - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
+    - [IDE & Text Editor](#ide--text-editor)
+    - [其他工具 (Other Tools)](#其他工具-other-tools)
+  - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
+    - [Java 學習](#java-學習)
+    - [C++ 學習](#c-學習)
+    - [Golang 學習](#golang-學習)
+  - [網頁開發 (Web Development)](#網頁開發-web-development)
+  - [知識 (Knowledge)](#知識-knowledge)
+    - [計算機概論 (Introduction to Computer Science)](#計算機概論-introduction-to-computer-science)
+    - [資料結構 (Data Structure)](#資料結構-data-structure)
+    - [演算法 (Algorithm)](#演算法-algorithm)
+    - [計算機網路 (Computer Networking)](#計算機網路-computer-networking)
+  - [考資工所](#考資工所)
+  - [面試](#面試)
 
 ## 開發工具 (Developer Tools)
 
