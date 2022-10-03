@@ -12,7 +12,11 @@
     - [Java 學習](#java-學習)
     - [C++ 學習](#c-學習)
     - [Golang 學習](#golang-學習)
+    - [Rust 學習](#rust-學習)
   - [網頁開發 (Web Development)](#網頁開發-web-development)
+    - [初來乍到 (Beginner)](#初來乍到-beginner)
+    - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
+    - [CSS 開發框架](#css-開發框架)
   - [知識 (Knowledge)](#知識-knowledge)
     - [計算機概論 (Introduction to Computer Science)](#計算機概論-introduction-to-computer-science)
     - [資料結構 (Data Structure)](#資料結構-data-structure)
@@ -29,6 +33,8 @@
 ### [Git](https://gitforwindows.org/) - 免費、開源的版本控制軟體
 
 - [GitHub](https://github.com/) - 目前全球最大的 Git Server、原始碼代管服務平台，各種開源軟體(專案)的聚集地。同時也是工程師的社群平台。題外話，2020 年之前的程式碼都存在北極，有 bug 也刪不掉。
+
+  - [ProGit Book](https://git-scm.com/book/en/v2) - 官方提供的完整文件，部分語言翻譯不全，故推薦看英文。
 
   - [Will 保哥: 30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
 
@@ -72,12 +78,22 @@
 
 - [The Little Go Book](https://github.com/kevingo/the-little-go-book) 繁體中文翻譯版
 
+### Rust 學習
+
+- [Rust 程式設計語言](https://rust-lang.tw/book-tw/) - 由 Steve Klabnik 與 Carol Nichols，以及 Rust 社群的貢獻撰寫而成。由台灣社群翻譯。
+
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) - 透過許多 Linked Lists 學習 Rust。內容寫得很完整。
+
 ## 網頁開發 (Web Development)
+
+### 初來乍到 (Beginner)
 
 - [MDN](https://developer.mozilla.org/zh-TW/) - 網頁開發開源文件與學習資源
 - [Cloudfare 學習中心](https://www.cloudflare.com/zh-tw/learning/) - 有關網路安全和 Cloudflare 在網際網路上如何運作的相關學習資源
 
 - [2022 網頁開發全攻略(HTML, CSS, JavaScript, React, SQL, Node, more)](https://www.udemy.com/course/html5-css3-z/) - Udemy 付費課程，初學者網頁開發中文教學，內容很豐富，推!
+
+### 開發框架 & 函式庫 (Frame & Library)
 
 - [React](https://reactjs.org/) - FB 開發用來實作使用者介面的 JavaScript 函式庫，但大家都當它是框架(三大主流框架之一)。
 
@@ -93,11 +109,23 @@
 
     - [React Projects](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
 
-- [Bootstrap](https://getbootstrap.com/) - 非常流行的前端開發工具
+### CSS 開發框架
+
+關於要用 Bootstrap 還是 TailwindCSS 有許多的(激烈的)討論，可以多上網看看或是參考參考這篇文章
+[該選 Tailwind CSS 還是 Bootstrap？框架比較讓你一次知道它們的優缺點！](https://blog.hiskio.com/tailwind-css-or-bootstrap/)
+不過最重要的還是將 CSS 學好，框架只是開發過程中的工具。
+
+- [Bootstrap](https://getbootstrap.com/) - 組件類型的 CSS 框架，兩大流行的前端開發工具之一
 
   - [Bootstrap Docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - 官方文件檔
 
   - [中文文件檔(六角學院譯)](https://bootstrap5.hexschool.com/docs/5.1/getting-started/introduction/) - 不一定是最新版本，請注意
+
+- [TailwindCSS](https://tailwindcss.com/) - Utility 類型的 CSS 框架，兩大流行的前端開發工具之一
+
+  - [TailwindCSS Docs](https://tailwindcss.com/docs/installation) - 被許多人抱怨難用的官方文件檔
+
+  - [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss#plugins) - GitHub Reop，許多跟 Tailwind CSS 有關的酷酷東西。
 
 ## 知識 (Knowledge)
 
