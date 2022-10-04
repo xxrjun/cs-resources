@@ -1,5 +1,7 @@
 # CS Resource
 
+包含中文及英文資源。
+
 ## 目錄
 
 - [CS Resource](#cs-resource)
@@ -68,9 +70,11 @@
 
 ### C++ 學習
 
-- [Microsoft 歡迎回到 C++ (現代 C++)](https://learn.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170&viewFallbackFrom=vs-2019)
+- [Microsoft 歡迎回到 C++ (現代 C++)](https://learn.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170&viewFallbackFrom=vs-2019) - 微軟官方 C++中文文件
 
 - [OpenHome 語言技術：C++ Gossip](https://openhome.cc/Gossip/CppGossip/index.html) - 林信良老師撰寫的 C++ 中文教材
+
+- [Standard C++ Library reference (cplusplus)](https://cplusplus.com/reference/) - 英文標準函式庫文件
 
 ### Golang 學習
 
