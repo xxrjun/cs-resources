@@ -2,6 +2,10 @@
 
 包含中文及英文資源。
 
+作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫大海中留下一點痕跡。
+
+期許自己的血液裡都流著程式碼的那天。
+
 ## 目錄
 
 - [CS Resource](#cs-resource)
@@ -13,6 +17,7 @@
   - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
     - [Java 學習](#java-學習)
     - [C++ 學習](#c-學習)
+    - [Python 學習](#python-學習)
     - [Golang 學習](#golang-學習)
     - [Rust 學習](#rust-學習)
   - [網頁開發 (Web Development)](#網頁開發-web-development)
@@ -70,11 +75,19 @@
 
 ### C++ 學習
 
-- [Microsoft 歡迎回到 C++ (現代 C++)](https://learn.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170&viewFallbackFrom=vs-2019) - 微軟官方 C++中文文件
+- [Microsoft 歡迎回到 C++ (現代 C++)](https://learn.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170&viewFallbackFrom=vs-2019) - 微軟官方 C++ 中文文件。
 
 - [OpenHome 語言技術：C++ Gossip](https://openhome.cc/Gossip/CppGossip/index.html) - 林信良老師撰寫的 C++ 中文教材
 
 - [Standard C++ Library reference (cplusplus)](https://cplusplus.com/reference/) - 英文標準函式庫文件
+
+### Python 學習
+
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) - Python 官方文件教程，有多種語言可以選擇。
+
+- [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days) - GitHub 上 Python 教程，內容完整，從基礎到較為進階的部分都有。
+
+- [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) - UC Berkely 大學課程，前半部以 Python 為主，後面包含 Scheme, SQL。本課程強調抽象，學習掌握程序來解決實際問題。
 
 ### Golang 學習
 
@@ -87,6 +100,8 @@
 - [Rust 程式設計語言](https://rust-lang.tw/book-tw/) - 由 Steve Klabnik 與 Carol Nichols，以及 Rust 社群的貢獻撰寫而成。由台灣社群翻譯。
 
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) - 透過許多 Linked Lists 學習 Rust。內容寫得很完整。
+
+- [CS110L: Safety in Systems Programming Spring 2020](https://reberhardt.com/cs110l/spring-2020/) - Stanford 大學比較進階的課程，透過這門課學習 Rust 語言。
 
 ## 網頁開發 (Web Development)
 
@@ -141,7 +156,7 @@
 
 ### 資料結構 (Data Structure)
 
-- [UC Berkeley CS61B Spring 2021](https://sp21.datastructur.es/) - UC Berkeley 資料結構課程，使用的程式語言是 Java，作業也很有趣，個人相當喜歡
+- [UC Berkeley CS61B Spring 2021](https://sp21.datastructur.es/) - UC Berkeley 資料結構課程，使用的程式語言是 Java，作業也很有趣，個人相當喜歡。選擇年份時記得看一下該學期的 autograder 是否有開放以利檢測自己作業的正確性。
 
 ### 演算法 (Algorithm)
 
