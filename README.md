@@ -29,6 +29,7 @@
     - [資料結構 (Data Structure)](#資料結構-data-structure)
     - [演算法 (Algorithm)](#演算法-algorithm)
     - [計算機網路 (Computer Networking)](#計算機網路-computer-networking)
+    - [資料科學 (Data Science)](#資料科學-data-science)
   - [考資工所](#考資工所)
   - [面試](#面試)
   - [Youtube 頻道推薦](#youtube-頻道推薦)
@@ -169,6 +170,12 @@
 - [NTHUOCW 計算機網路](https://www.youtube.com/watch?v=8HoeJ3JleQg&list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB) - 由清大黃能富教授所上的計算機網路課程
 
 - [Computer Networking: A Top-Down Approach 8th](http://gaia.cs.umass.edu/kurose_ross/lectures.php) - 由 JimKurose 撰寫的線上教材
+
+### 資料科學 (Data Science)
+
+- [Data8: The Foundations of Data Science](http://data8.org/) - UC Berkeley 資料科學導論課程
+  - [Data 8 Fall 2021 Course](http://data8.org/fa21/)
+  - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
 
 ## 考資工所
 
