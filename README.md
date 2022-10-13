@@ -109,6 +109,7 @@
 ### 初來乍到 (Beginner)
 
 - [MDN](https://developer.mozilla.org/zh-TW/) - 網頁開發開源文件與學習資源
+
 - [Cloudfare 學習中心](https://www.cloudflare.com/zh-tw/learning/) - 有關網路安全和 Cloudflare 在網際網路上如何運作的相關學習資源
 
 - [2022 網頁開發全攻略(HTML, CSS, JavaScript, React, SQL, Node, more)](https://www.udemy.com/course/html5-css3-z/) - Udemy 付費課程，初學者網頁開發中文教學，內容很豐富，推!
@@ -174,7 +175,9 @@
 ### 資料科學 (Data Science)
 
 - [Data8: The Foundations of Data Science](http://data8.org/) - UC Berkeley 資料科學導論課程
+
   - [Data 8 Fall 2021 Course](http://data8.org/fa21/)
+
   - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
 
 ## 考資工所
