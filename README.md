@@ -129,7 +129,7 @@
 
 - [MIT Web Development Crash Course](https://weblab.mit.edu/schedule/) - MIT 一個為期四周的 IAP(Independent Activities Period) 課程。基本囊括了網頁開發前後端大部分的知識與技術，從 HTML、CSS、JavaScript 到 Database、API、React、Sockets、Deployment 等等都有!
 
-  - [IAP 2021 Youtube Playlist](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xWDJyRjbwaN8N3cMVOFxYY)
+  - [IAP 2021 Youtube Playlist](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xWDJyRjbwaN8N3cMVOFxYY) - 21 年的才有完整 Playlist，可能是因為 22 年很多影片的畫質跟音訊不好，所以我自己也偏好 21 年的上課影片。
 
 - [2022 網頁開發全攻略(HTML, CSS, JavaScript, React, SQL, Node, more)](https://www.udemy.com/course/html5-css3-z/) - Udemy 付費課程，初學者網頁開發中文教學，內容很豐富，推!
 
