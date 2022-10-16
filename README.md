@@ -32,9 +32,13 @@
     - [資料科學 (Data Science)](#資料科學-data-science)
   - [考資工所](#考資工所)
   - [面試](#面試)
-  - [Youtube 頻道推薦](#youtube-頻道推薦)
+  - [社群媒體 (Media)](#社群媒體-media)
+    - [Youtube 頻道推薦](#youtube-頻道推薦)
 
 ## 開發工具 (Developer Tools)
+
+> 工欲善其事，必先利其器
+> To do a good job, an artisan needs the best tools.
 
 下方軟體許多都可以透過  **[GitHub Student Developer Pack](https://education.github.com/pack)** 免費取得授權或升級至專業版，善用當學生的資源阿阿。
 
@@ -64,6 +68,8 @@
 
 - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701) - Windows 現代終端應用程式
 
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
+
 ## 程式語言學習 (Programming Language)
 
 ### Java 學習
@@ -82,13 +88,19 @@
 
 - [Standard C++ Library reference (cplusplus)](https://cplusplus.com/reference/) - 英文標準函式庫文件
 
+- [CS106L Standard C++ Programming - Stanfard]()
+
+  - [Fall 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA) - Youtube 課程播放清單
+
+  - [Winter 2018 Course Website](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1184/index.html) - 課程網站，有 slides 跟 assignments
+
 ### Python 學習
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) - Python 官方文件教程，有多種語言可以選擇。
 
 - [Python - 100 天从新手到大师](https://github.com/jackfrued/Python-100-Days) - GitHub 上 Python 教程，內容完整，從基礎到較為進階的部分都有。
 
-- [CS 61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/) - UC Berkely 大學課程，前半部以 Python 為主，後面包含 Scheme, SQL。本課程強調抽象，學習掌握程序來解決實際問題。
+- [CS 61A: Structure and Interpretation of Computer Programs - UC Berkely](https://inst.eecs.berkeley.edu/~cs61a/fa20/) - 前半部以 Python 為主，後面包含 Scheme, SQL。本課程強調抽象，學習掌握程序來解決實際問題。
 
 ### Golang 學習
 
@@ -103,6 +115,8 @@
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) - 透過許多 Linked Lists 學習 Rust。內容寫得很完整。
 
 - [CS110L: Safety in Systems Programming Spring 2020](https://reberhardt.com/cs110l/spring-2020/) - Stanford 大學比較進階的課程，透過這門課學習 Rust 語言。
+
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
 
 ## 網頁開發 (Web Development)
 
@@ -148,6 +162,8 @@
 
   - [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss#plugins) - GitHub Reop，許多跟 Tailwind CSS 有關的酷酷東西。
 
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
+
 ## 知識 (Knowledge)
 
 ### 計算機概論 (Introduction to Computer Science)
@@ -180,6 +196,8 @@
 
   - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
 
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
+
 ## 考資工所
 
 - [資工所資源](https://eecsmt.com/cs-resource/) - 善心人士整理的原文書、筆記、歷屆試題
@@ -188,13 +206,19 @@
 
 - [十週考上台清交資工所的那些小事](https://hackmd.io/@kangchunhung/things_of_getting_admitted_by_CSIE_Department#%E5%8D%81%E9%80%B1%E8%80%83%E4%B8%8A%E5%8F%B0%E6%B8%85%E4%BA%A4%E8%B3%87%E5%B7%A5%E6%89%80%E7%9A%84%E9%82%A3%E4%BA%9B%E5%B0%8F%E4%BA%8B) - 好文推薦
 
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
+
 ## 面試
 
 - [LeetCode](https://leetcode.com/problemset/all/) - 刷題工具
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Github 上自學教程，一個非本科生花八個月自學從網頁前端到成為 Amazon 軟體工程師
 
-## Youtube 頻道推薦
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
+
+## 社群媒體 (Media)
+
+### Youtube 頻道推薦
 
 - [Joma Tech](https://www.youtube.com/c/JomaOppa) - 最喜歡的工程師頻道之一，許多有關在矽谷以及在科技巨頭的生活，還有很多有趣的影片。特別推薦 Interview 的影片清單。
 
@@ -209,3 +233,5 @@
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) - 大量免費且豐富完整的課程。主旨為 "Learn to code for free". 真的是佛來的。
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured) - 海量前端學習課程。從基礎 HTMl, CSS & JavaScript 到前端框架如 React, Vue 在到後端像 Node.js, Python 和 PHP
+
+<div align="center"><a href="#目錄">BACK TO TOP</a></div>
