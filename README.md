@@ -1,44 +1,43 @@
-# CS Resource
+<img id="banner" src="./src/banner.png" align="center"/>
 
-包含中文及英文資源。
+> 作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫碼海中留下一點痕跡。
+>
+> 期許自己的血液裡都流著程式碼的那天。
 
-作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫大海中留下一點痕跡。
+## Table of Contents
 
-期許自己的血液裡都流著程式碼的那天。
+- [Table of Contents](#table-of-contents)
+- [開發工具 (Developer Tools)](#開發工具-developer-tools)
+  - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
+  - [IDE & Text Editor](#ide--text-editor)
+  - [其他工具 (Other Tools)](#其他工具-other-tools)
+- [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
+  - [Java 學習](#java-學習)
+  - [C++ 學習](#c-學習)
+  - [Python 學習](#python-學習)
+  - [Golang 學習](#golang-學習)
+  - [Rust 學習](#rust-學習)
+- [網頁開發 (Web Development)](#網頁開發-web-development)
+  - [初來乍到 (Beginner)](#初來乍到-beginner)
+  - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
+  - [CSS 開發框架](#css-開發框架)
+- [知識 (Knowledge)](#知識-knowledge)
+  - [計算機概論 (Introduction to Computer Science)](#計算機概論-introduction-to-computer-science)
+  - [資料結構 (Data Structure)](#資料結構-data-structure)
+  - [演算法 (Algorithm)](#演算法-algorithm)
+  - [計算機網路 (Computer Networking)](#計算機網路-computer-networking)
+  - [資料科學 (Data Science)](#資料科學-data-science)
+- [考資工所](#考資工所)
+- [面試](#面試)
+- [社群媒體 (Media)](#社群媒體-media)
+  - [Youtube 頻道推薦](#youtube-頻道推薦)
 
-## 目錄
-
-- [CS Resource](#cs-resource)
-  - [目錄](#目錄)
-  - [開發工具 (Developer Tools)](#開發工具-developer-tools)
-    - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
-    - [IDE & Text Editor](#ide--text-editor)
-    - [其他工具 (Other Tools)](#其他工具-other-tools)
-  - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
-    - [Java 學習](#java-學習)
-    - [C++ 學習](#c-學習)
-    - [Python 學習](#python-學習)
-    - [Golang 學習](#golang-學習)
-    - [Rust 學習](#rust-學習)
-  - [網頁開發 (Web Development)](#網頁開發-web-development)
-    - [初來乍到 (Beginner)](#初來乍到-beginner)
-    - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
-    - [CSS 開發框架](#css-開發框架)
-  - [知識 (Knowledge)](#知識-knowledge)
-    - [計算機概論 (Introduction to Computer Science)](#計算機概論-introduction-to-computer-science)
-    - [資料結構 (Data Structure)](#資料結構-data-structure)
-    - [演算法 (Algorithm)](#演算法-algorithm)
-    - [計算機網路 (Computer Networking)](#計算機網路-computer-networking)
-    - [資料科學 (Data Science)](#資料科學-data-science)
-  - [考資工所](#考資工所)
-  - [面試](#面試)
-  - [社群媒體 (Media)](#社群媒體-media)
-    - [Youtube 頻道推薦](#youtube-頻道推薦)
+包含中文及英文資源
 
 ## 開發工具 (Developer Tools)
 
 > 工欲善其事，必先利其器。
-
+>
 > The mechanic, who wishes to do his work well, must first sharpen his tools.
 
 下方軟體許多都可以透過  **[GitHub Student Developer Pack](https://education.github.com/pack)** 免費取得授權或升級至專業版，善用當學生的資源阿阿。
@@ -69,7 +68,7 @@
 
 - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701) - Windows 現代終端應用程式
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 程式語言學習 (Programming Language)
 
@@ -117,7 +116,7 @@
 
 - [CS110L: Safety in Systems Programming Spring 2020](https://reberhardt.com/cs110l/spring-2020/) - Stanford 大學比較進階的課程，透過這門課學習 Rust 語言。
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 網頁開發 (Web Development)
 
@@ -167,7 +166,7 @@
 
   - [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss#plugins) - GitHub Reop，許多跟 Tailwind CSS 有關的酷酷東西。
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 知識 (Knowledge)
 
@@ -201,7 +200,7 @@
 
   - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 考資工所
 
@@ -211,7 +210,7 @@
 
 - [十週考上台清交資工所的那些小事](https://hackmd.io/@kangchunhung/things_of_getting_admitted_by_CSIE_Department#%E5%8D%81%E9%80%B1%E8%80%83%E4%B8%8A%E5%8F%B0%E6%B8%85%E4%BA%A4%E8%B3%87%E5%B7%A5%E6%89%80%E7%9A%84%E9%82%A3%E4%BA%9B%E5%B0%8F%E4%BA%8B) - 好文推薦
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 面試
 
@@ -219,7 +218,7 @@
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Github 上自學教程，一個非本科生花八個月自學從網頁前端到成為 Amazon 軟體工程師
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 社群媒體 (Media)
 
@@ -239,4 +238,4 @@
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured) - 海量前端學習課程。從基礎 HTMl, CSS & JavaScript 到前端框架如 React, Vue 在到後端像 Node.js, Python 和 PHP
 
-<div align="right"><a href="#目錄">BACK TO TOP</a></div>
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
