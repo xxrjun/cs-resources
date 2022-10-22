@@ -76,9 +76,13 @@
 
 - [Learn Java](https://dev.java/learn/) - 官方教學
 
+- [Codecademy Learn Java](https://www.codecademy.com/learn/learn-java) - Java 基礎，Lesson 部分免費，其他 Quiz、Projects 的部分要付費。
+
+  - [Codecademy Learn Intermediate Java](https://www.codecademy.com/learn/learn-intermediate-java) - Java
+
 - [OpenHome Java](https://openhome.cc/zh-tw/java/) - 林信良老師撰寫的 Java 中文教材
 
-- [OpenHome Gossip 語言技術：Java Essence](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
+  - [OpenHome Gossip 語言技術：Java Essence](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
 
 ### C++ 學習
 
@@ -129,6 +133,8 @@
 - [MIT Web Development Crash Course](https://weblab.mit.edu/schedule/) - MIT 一個為期四周的 IAP(Independent Activities Period) 課程。基本囊括了網頁開發前後端大部分的知識與技術，從 HTML、CSS、JavaScript 到 Database、API、React、Sockets、Deployment 等等都有!
 
   - [IAP 2021 Youtube Playlist](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xWDJyRjbwaN8N3cMVOFxYY) - 21 年的才有完整 Playlist，可能是因為 22 年很多影片的畫質跟音訊不好，所以我自己也偏好 21 年的上課影片。
+
+- [University of Helsinki - Full Stack open 2022](https://fullstackopen.com/en/) - 開放式全端教學，React、Testing、Server、GraphQL、TypeScript、CI/CD ...等等許多 Web 開發的知識都都錄在裡面
 
 - [2022 網頁開發全攻略(HTML, CSS, JavaScript, React, SQL, Node, more)](https://www.udemy.com/course/html5-css3-z/) - Udemy 付費課程，初學者網頁開發中文教學，內容很豐富，推!
 
