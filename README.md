@@ -17,19 +17,21 @@
   - [Python 學習](#python-學習)
   - [Golang 學習](#golang-學習)
   - [Rust 學習](#rust-學習)
-- [網頁開發 (Web Development)](#網頁開發-web-development)
-  - [初來乍到 (Beginner)](#初來乍到-beginner)
-  - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
-  - [CSS 開發框架](#css-開發框架)
 - [知識 (Knowledge)](#知識-knowledge)
   - [計算機概論 (Introduction to Computer Science)](#計算機概論-introduction-to-computer-science)
   - [資料結構 (Data Structure)](#資料結構-data-structure)
   - [演算法 (Algorithm)](#演算法-algorithm)
   - [計算機網路 (Computer Networking)](#計算機網路-computer-networking)
   - [資料科學 (Data Science)](#資料科學-data-science)
+  - [系統設計 (System Design)](#系統設計-system-design)
+- [網頁開發 (Web Development)](#網頁開發-web-development)
+  - [初來乍到 (Beginner)](#初來乍到-beginner)
+  - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
+  - [CSS 開發框架](#css-開發框架)
 - [考資工所](#考資工所)
 - [面試](#面試)
-- [社群媒體 (Media)](#社群媒體-media)
+- [平台 (Platform)](#平台-platform)
+  - [GitHub](#github)
   - [Youtube 頻道推薦](#youtube-頻道推薦)
 
 包含中文及英文資源
@@ -71,6 +73,10 @@
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 程式語言學習 (Programming Language)
+
+> 長期而言，技術來來去去，語言也來來去去，精通一種技術或語言，並不能保證你長期的發展。
+>
+> 你的目標不必侷限在學習甚麼語言或框架，只要吃透基礎知識，你可以學會任何你想要的東西。
 
 ### Java 學習
 
@@ -122,6 +128,47 @@
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
+## 知識 (Knowledge)
+
+> 站在巨人的肩膀上成為下一個巨人
+
+### 計算機概論 (Introduction to Computer Science)
+
+- [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard 大學知名課程
+
+- [Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - youtube 上介紹機算機科學的一系列影片，不少還挺有趣的
+
+### 資料結構 (Data Structure)
+
+- [UC Berkeley CS61B Spring 2021](https://sp21.datastructur.es/) - UC Berkeley 資料結構課程，使用的程式語言是 Java，作業也很有趣，個人相當喜歡。選擇年份時記得看一下該學期的 autograder 是否有開放以利檢測自己作業的正確性。
+
+### 演算法 (Algorithm)
+
+- [NCYU Algorithms](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=8&gid=0&nid=493)
+
+- [2019 Fall 台大資工 演算法設計與分析 NTU CSIE ADA](https://www.csie.ntu.edu.tw/~yvchen/f107-ada/)
+
+### 計算機網路 (Computer Networking)
+
+- [NTHUOCW 計算機網路](https://www.youtube.com/watch?v=8HoeJ3JleQg&list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB) - 由清大黃能富教授所上的計算機網路課程
+
+- [Computer Networking: A Top-Down Approach 8th](http://gaia.cs.umass.edu/kurose_ross/lectures.php) - 由 JimKurose 撰寫的線上教材
+
+### 資料科學 (Data Science)
+
+- [Data8: The Foundations of Data Science](http://data8.org/) - UC Berkeley 資料科學導論課程
+
+  - [Data 8 Fall 2021 Course](http://data8.org/fa21/)
+
+  - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
+
+### 系統設計 (System Design)
+
+- [System Design by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+
+-
+
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
 ## 網頁開發 (Web Development)
 
 ### 初來乍到 (Beginner)
@@ -174,40 +221,6 @@
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
-## 知識 (Knowledge)
-
-### 計算機概論 (Introduction to Computer Science)
-
-- [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard 大學知名課程
-
-- [Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) - youtube 上介紹機算機科學的一系列影片，不少還挺有趣的
-
-### 資料結構 (Data Structure)
-
-- [UC Berkeley CS61B Spring 2021](https://sp21.datastructur.es/) - UC Berkeley 資料結構課程，使用的程式語言是 Java，作業也很有趣，個人相當喜歡。選擇年份時記得看一下該學期的 autograder 是否有開放以利檢測自己作業的正確性。
-
-### 演算法 (Algorithm)
-
-- [NCYU Algorithms](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=8&gid=0&nid=493)
-
-- [2019 Fall 台大資工 演算法設計與分析 NTU CSIE ADA](https://www.csie.ntu.edu.tw/~yvchen/f107-ada/)
-
-### 計算機網路 (Computer Networking)
-
-- [NTHUOCW 計算機網路](https://www.youtube.com/watch?v=8HoeJ3JleQg&list=PLS0SUwlYe8cwqVK1W3cs5zrdChpWA1ooB) - 由清大黃能富教授所上的計算機網路課程
-
-- [Computer Networking: A Top-Down Approach 8th](http://gaia.cs.umass.edu/kurose_ross/lectures.php) - 由 JimKurose 撰寫的線上教材
-
-### 資料科學 (Data Science)
-
-- [Data8: The Foundations of Data Science](http://data8.org/) - UC Berkeley 資料科學導論課程
-
-  - [Data 8 Fall 2021 Course](http://data8.org/fa21/)
-
-  - [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html) - 上課用教材
-
-<div align="right"><a href="#banner">BACK TO TOP</a></div>
-
 ## 考資工所
 
 - [資工所資源](https://eecsmt.com/cs-resource/) - 善心人士整理的原文書、筆記、歷屆試題
@@ -226,7 +239,11 @@
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
-## 社群媒體 (Media)
+## 平台 (Platform)
+
+### GitHub
+
+- [科技爱好者周刊](https://github.com/ruanyf/weekly) - 記錄每周值得分享的科技內容，周五發布。
 
 ### Youtube 頻道推薦
 
