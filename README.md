@@ -166,7 +166,7 @@
 
 - [System Design by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
--
+- [System Design Interview Prep by Exponent](https://youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL) - Youtube Playlist，許多 System Design 的模擬面試
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
