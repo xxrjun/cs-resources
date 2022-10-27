@@ -32,7 +32,7 @@
 - [面試](#面試)
 - [平台 (Platform)](#平台-platform)
   - [GitHub](#github)
-  - [Youtube 頻道推薦](#youtube-頻道推薦)
+  - [Youtube Channels](#youtube-channels)
 
 包含中文及英文資源
 
@@ -74,8 +74,7 @@
 
 ## 程式語言學習 (Programming Language)
 
-> 長期而言，技術來來去去，語言也來來去去，精通一種技術或語言，並不能保證你長期的發展。
->
+> 長期而言，技術來來去去，語言也來來去去，精通一種技術或語言，並不能保證你長期的發展。  
 > 你的目標不必侷限在學習甚麼語言或框架，只要吃透基礎知識，你可以學會任何你想要的東西。
 
 ### Java 學習
@@ -246,7 +245,7 @@
 
 - [科技爱好者周刊](https://github.com/ruanyf/weekly) - 記錄每周值得分享的科技內容，周五發布。
 
-### Youtube 頻道推薦
+### Youtube Channels
 
 - [Joma Tech](https://www.youtube.com/c/JomaOppa) - 最喜歡的工程師頻道之一，許多有關在矽谷以及在科技巨頭的生活，還有很多有趣的影片。特別推薦 Interview 的影片清單。
 
@@ -261,5 +260,7 @@
 - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) - 大量免費且豐富完整的課程。主旨為 "Learn to code for free". 真的是佛來的。
 
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured) - 海量前端學習課程。從基礎 HTMl, CSS & JavaScript 到前端框架如 React, Vue 在到後端像 Node.js, Python 和 PHP
+
+- [Fireship](https://www.youtube.com/c/Fireship/featured) - 每周更新技術科技相關的大小事，影片時長都不長，非常適合閒暇時刻學習新知或認識新技術。
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
