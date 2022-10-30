@@ -30,9 +30,10 @@
   - [CSS 開發框架](#css-開發框架)
 - [考資工所](#考資工所)
 - [面試](#面試)
-- [平台 (Platform)](#平台-platform)
+- [平台與社群媒體 (Platform & Socia Media)](#平台與社群媒體-platform--socia-media)
   - [GitHub](#github)
   - [Youtube Channels](#youtube-channels)
+  - [Podcast](#podcast)
 
 包含中文及英文資源
 
@@ -97,7 +98,7 @@
 
 - [Standard C++ Library reference (cplusplus)](https://cplusplus.com/reference/) - 英文標準函式庫文件
 
-- [CS106L Standard C++ Programming - Stanfard]()
+- [CS106L Standard C++ Programming - Stanfard](https://web.stanford.edu/class/cs106l/)
 
   - [Fall 2019 Youtube Playlist](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA) - Youtube 課程播放清單
 
@@ -191,7 +192,7 @@
 
   - [React Docs](https://reactjs.org/docs/getting-started.html) - 官方文檔
 
-  - [Overreacted](https://overreacted.io/) - Dan Abramov(Redux 的作者、也是 React 核心开发成员) 的 Blog。個人覺得挺有趣的
+  - [Overreacted](https://overreacted.io/) - Dan Abramov(Redux 的作者、也是 React 核心開發者之一) 的 Blog。個人覺得挺有趣的
 
   - Youtube 上專案實作清單(基礎會了再來做。時代演進快，有的套件或用法都變動得很快，建議找較新的做)
 
@@ -239,11 +240,13 @@
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
-## 平台 (Platform)
+## 平台與社群媒體 (Platform & Socia Media)
 
 ### GitHub
 
-- [科技爱好者周刊](https://github.com/ruanyf/weekly) - 記錄每周值得分享的科技內容，周五發布。
+- [科技爱好者周刊](https://github.com/ruanyf/weekly) - 記錄每周值得分享的科技內容，每周五發布。很多很有趣的科技新聞跟酷酷的東西!
+
+- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - GitHub 上有趣、入門級的開源項目。
 
 ### Youtube Channels
 
@@ -262,5 +265,11 @@
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured) - 海量前端學習課程。從基礎 HTMl, CSS & JavaScript 到前端框架如 React, Vue 在到後端像 Node.js, Python 和 PHP
 
 - [Fireship](https://www.youtube.com/c/Fireship/featured) - 每周更新技術科技相關的大小事，影片時長都不長，非常適合閒暇時刻學習新知或認識新技術。
+
+### Podcast
+
+- [矽谷輕鬆談 Just Kidding Tech](https://linktr.ee/jktech) - 在矽谷工作的一對很可愛的夫妻錄製的 Podcast，內容包含產業趨勢觀察、軟體開發、職涯發展、美國科技公司的新聞和八卦。
+
+- [程人頻道](https://linktr.ee/chengrenpindao3) - 許多第一線科技產業的訪談以及思維想法分享。
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
