@@ -26,8 +26,8 @@
   - [系統設計 (System Design)](#系統設計-system-design)
 - [網頁開發 (Web Development)](#網頁開發-web-development)
   - [初來乍到 (Beginner)](#初來乍到-beginner)
-  - [開發框架 & 函式庫 (Frame & Library)](#開發框架--函式庫-frame--library)
-  - [CSS 開發框架](#css-開發框架)
+  - [前端開發 (Frontend)](#前端開發-frontend)
+  - [後端開發 (Backend)](#後端開發-backend)
 - [考資工所](#考資工所)
 - [面試](#面試)
 - [平台與社群媒體 (Platform & Socia Media)](#平台與社群媒體-platform--socia-media)
@@ -86,15 +86,15 @@
 
   - [Codecademy Learn Intermediate Java](https://www.codecademy.com/learn/learn-intermediate-java) - Java
 
-- [OpenHome Java](https://openhome.cc/zh-tw/java/) - 林信良老師撰寫的 Java 中文教材
+- [OpenHome Java](https://openhome.cc/zh-tw/java/) - 林信良老師(良葛格)撰寫的 Java 中文教材。我們永遠記得您的偉大...
 
-  - [OpenHome Gossip 語言技術：Java Essence](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
+  - [OpenHome Gossip 語言技術：Java Essence](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師(良葛格)撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
 
 ### C++ 學習
 
 - [Microsoft 歡迎回到 C++ (現代 C++)](https://learn.microsoft.com/zh-tw/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170&viewFallbackFrom=vs-2019) - 微軟官方 C++ 中文文件。
 
-- [OpenHome 語言技術：C++ Gossip](https://openhome.cc/Gossip/CppGossip/index.html) - 林信良老師撰寫的 C++ 中文教材
+- [OpenHome 語言技術：C++ Gossip](https://openhome.cc/Gossip/CppGossip/index.html) - 林信良老師(良葛格)撰寫的 C++ 中文教材
 
 - [Standard C++ Library reference (cplusplus)](https://cplusplus.com/reference/) - 英文標準函式庫文件
 
@@ -172,6 +172,12 @@
 
 ## 網頁開發 (Web Development)
 
+> 工具一直再變動，但核心基礎知識不太會一直更迭
+>
+> 要時時刻刻提醒自己不要盲目追求新工具，先學會走路才能飛得更遠
+
+> 培養查閱官方文件的能力很重要，往往第二手教學資訊都需要等比較久
+
 ### 初來乍到 (Beginner)
 
 - [MDN](https://developer.mozilla.org/zh-TW/) - 網頁開發開源文件與學習資源
@@ -186,7 +192,9 @@
 
 - [2022 網頁開發全攻略(HTML, CSS, JavaScript, React, SQL, Node, more)](https://www.udemy.com/course/html5-css3-z/) - Udemy 付費課程，初學者網頁開發中文教學，內容很豐富，推!
 
-### 開發框架 & 函式庫 (Frame & Library)
+### 前端開發 (Frontend)
+
+#### JS Framework & Library
 
 - [React](https://reactjs.org/) - FB 開發用來實作使用者介面的 JavaScript 函式庫，但大家都當它是框架(三大主流框架之一)。
 
@@ -202,7 +210,7 @@
 
     - [React Projects](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb)
 
-### CSS 開發框架
+#### CSS Framework
 
 關於要用 Bootstrap 還是 TailwindCSS 有許多的(激烈的)討論，可以多上網看看或是參考參考這篇文章
 [該選 Tailwind CSS 還是 Bootstrap？框架比較讓你一次知道它們的優缺點！](https://blog.hiskio.com/tailwind-css-or-bootstrap/)
@@ -219,6 +227,26 @@
   - [TailwindCSS Docs](https://tailwindcss.com/docs/installation) - 被許多人抱怨難用的官方文件檔
 
   - [Awesome TailwindCSS](https://github.com/aniftyco/awesome-tailwindcss#plugins) - GitHub Reop，許多跟 Tailwind CSS 有關的酷酷東西。
+
+<div align="right"><a href="#banner">BACK TO TOP</a></div>
+
+### 後端開發 (Backend)
+
+- [Node.js](https://nodejs.org/en/) - 讓 JavaScript 能夠在瀏覽器以外的環境運行，常用在撰寫伺服器端
+
+  - [Node.js Docs](https://nodejs.org/en/docs/)
+
+- [Express.js](https://expressjs.com/)
+
+- [Mongoose](https://mongoosejs.com/)
+
+- [MongoDB](https://www.mongodb.com/)
+
+  - [Getting Started](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
+
+#### 後端知識 (Backend Knowledge)
+
+- [成為看起來很強的後端 - Web 實驗室](https://www.youtube.com/playlist?list=PLS5AiLcCHgNxd341NwuY9EOpVvY5Z8VOs) - 用很短的時間就可以了解到後端藍圖，老師講的非常前顯易懂，受益良多。
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
