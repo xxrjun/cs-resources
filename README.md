@@ -9,7 +9,7 @@
 - [Table of Contents](#table-of-contents)
 - [開發工具 (Developer Tools)](#開發工具-developer-tools)
   - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
-  - [IDE & Text Editor](#ide--text-editor)
+  - [IDE \& Text Editor](#ide--text-editor)
   - [其他工具 (Other Tools)](#其他工具-other-tools)
 - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
   - [Java 學習](#java-學習)
@@ -28,9 +28,10 @@
   - [初來乍到 (Beginner)](#初來乍到-beginner)
   - [前端開發 (Frontend)](#前端開發-frontend)
   - [後端開發 (Backend)](#後端開發-backend)
+- [量子 (Quantum)](#量子-quantum)
 - [考資工所](#考資工所)
 - [面試](#面試)
-- [平台與社群媒體 (Platform & Socia Media)](#平台與社群媒體-platform--socia-media)
+- [平台與社群媒體 (Platform \& Socia Media)](#平台與社群媒體-platform--socia-media)
   - [GitHub](#github)
   - [Youtube Channels](#youtube-channels)
   - [Podcast](#podcast)
@@ -164,6 +165,8 @@
 
 ### 系統設計 (System Design)
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - GitHub 上熱門的系統設計教材。
+
 - [System Design by Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 - [System Design Interview Prep by Exponent](https://youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL) - Youtube Playlist，許多 System Design 的模擬面試
@@ -178,15 +181,13 @@
 
 > 培養查閱官方文件的能力很重要，往往第二手教學資訊都需要等比較久
 
+**工具部分僅僅是我個人學習與常用工具，僅供參考**
+
 ### 初來乍到 (Beginner)
 
 - [MDN](https://developer.mozilla.org/zh-TW/) - 網頁開發開源文件與學習資源
 
 - [Cloudfare 學習中心](https://www.cloudflare.com/zh-tw/learning/) - 有關網路安全和 Cloudflare 在網際網路上如何運作的相關學習資源
-
-- [MIT Web Development Crash Course](https://weblab.mit.edu/schedule/) - MIT 一個為期四周的 IAP(Independent Activities Period) 課程。基本囊括了網頁開發前後端大部分的知識與技術，從 HTML、CSS、JavaScript 到 Database、API、React、Sockets、Deployment 等等都有!
-
-  - [IAP 2021 Youtube Playlist](https://www.youtube.com/playlist?list=PLVAxjdyIU8_xWDJyRjbwaN8N3cMVOFxYY) - 21 年的才有完整 Playlist，可能是因為 22 年很多影片的畫質跟音訊不好，所以我自己也偏好 21 年的上課影片。
 
 - [University of Helsinki - Full Stack open 2022](https://fullstackopen.com/en/) - 開放式全端教學，React、Testing、Server、GraphQL、TypeScript、CI/CD ...等等許多 Web 開發的知識都都錄在裡面
 
@@ -232,6 +233,8 @@
 
 ### 後端開發 (Backend)
 
+- [Java Spring Boot](https://spring.io/)
+
 - [Node.js](https://nodejs.org/en/) - 讓 JavaScript 能夠在瀏覽器以外的環境運行，常用在撰寫伺服器端
 
   - [Node.js Docs](https://nodejs.org/en/docs/)
@@ -244,11 +247,24 @@
 
   - [Getting Started](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
 
+- [PostgreSQL](https://www.postgresql.org/)
+  - [PostgreSQL 正體中文使用手冊](https://docs.postgresql.tw/tutorial)
+
 #### 後端知識 (Backend Knowledge)
 
 - [成為看起來很強的後端 - Web 實驗室](https://www.youtube.com/playlist?list=PLS5AiLcCHgNxd341NwuY9EOpVvY5Z8VOs) - 用很短的時間就可以了解到後端藍圖，老師講的非常前顯易懂，受益良多。
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
+
+## 量子 (Quantum)
+
+> 新世界
+
+- [krishnakumarsekar/awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+
+- [15-859BB: Quantum Computation and Quantum Information 2018](https://www.cs.cmu.edu/~odonnell/quantum18/)
+
+- [IBM Quantum](https://quantum-computing.ibm.com/)
 
 ## 考資工所
 
