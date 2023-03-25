@@ -72,6 +72,12 @@
 
 - [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701) - Windows 現代終端應用程式
 
+- [ChatGPT](https://openai.com/blog/chatgpt) - 開發上有問題，包含起頭、語法、錯誤訊息等都可以問它，不一定都是正確的答案，但很多時候都可以獲得有用的幫助。
+
+  - [Prompt Engineering Guide 提示工程指南](https://promptingguide.azurewebsites.net/) - 2023 顯學 (?
+
+- [GitHub Copilot](https://github.com/features/copilot)
+
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
 ## 程式語言學習 (Programming Language)
