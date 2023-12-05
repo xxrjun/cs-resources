@@ -28,7 +28,7 @@
   - [初來乍到 Beginner](#初來乍到-beginner)
   - [後端開發 Backend Development](#後端開發-backend-development)
     - [後端知識 Backend Knowledge](#後端知識-backend-knowledge)
-- [量子 (Quantum)](#量子-quantum)
+- [量子 Quantum](#量子-quantum)
 - [AI \& Machine Learning](#ai--machine-learning)
 - [考資工所](#考資工所)
 - [面試 Interview](#面試-interview)
@@ -205,7 +205,7 @@
 
 <div align="right"><a href="#banner">BACK TO TOP</a></div>
 
-## 量子 (Quantum)
+## 量子 Quantum
 
 > 新世界
 
