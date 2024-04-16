@@ -1,0 +1,42 @@
+site_name: xxrjun/cs-resources
+site_author: xxrjun
+
+repo_name: cs-resources
+repo_url: https://github.com/xxrjun/cs-resources
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: red
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+  font:
+    code: Roboto Mono
+    text: Josefin Sans
+  features:
+    - navigation.instant
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Toolkits:
+    - Development Tools: toolkits/DevelopmentTools.md
+    - Daily Tools: toolkits/DailyTools.md
+
+copyright: >
+  Copyright &copy; 2023 - present, xxrjun, All rights reserved.
