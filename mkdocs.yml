@@ -23,6 +23,7 @@ theme:
     text: Josefin Sans
   features:
     - navigation.instant
+    - content.tabs.link
 
 markdown_extensions:
   - abbr
@@ -31,7 +32,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Home: index.md
   - Toolkits:

@@ -1,12 +1,5 @@
 # Daily Utility Tools
 
-- [Daily Utility Tools](#daily-utility-tools)
-  - [AI Tools](#ai-tools)
-  - [Documentations](#documentations)
-  - [Drawing Tools](#drawing-tools)
-  - [Browser Extensions](#browser-extensions)
-  - [Others](#others)
-
 ## AI Tools
 
 !!! tip
@@ -15,7 +8,9 @@
 
 - [**ChatGPT**](https://chat.openai.com/)
 - [**Claude**](https://claude.ai/)
-  - [**Anthropic Prompt Library**](https://docs.anthropic.com/claude/prompt-library)
+
+      - [**Anthropic Prompt Library**](https://docs.anthropic.com/claude/prompt-library)
+
 - [**Perplexity**](https://www.perplexity.ai/)
 
 ## Documentations
