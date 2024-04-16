@@ -40,6 +40,10 @@ nav:
   - Toolkits:
     - Development Tools: toolkits/DevelopmentTools.md
     - Daily Tools: toolkits/DailyTools.md
-
+    - Thesis: toolkits/Thesis.md
+  - Platforms:
+    - Youtube Channels: platforms/YoutubeChannels.md
+    - GitHub Repositories: platforms/GitHubRepositories.md
+  - Programming Langues: ProgrammingLanguages.md
 copyright: >
   Copyright &copy; 2023 - present, xxrjun, All rights reserved.
