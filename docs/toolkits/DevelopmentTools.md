@@ -6,7 +6,7 @@
 
 !!! tip
 
-    下方軟體許多都可以透過  **[GitHub Student Developer Pack](https://education.github.com/pack)** 免費取得授權或升級至專業版，善用當學生的資源阿阿。
+    下方軟體許多都可以透過  [**GitHub Student Developer Pack**](https://education.github.com/pack) 免費取得授權或升級至專業版，善用當學生的資源阿阿。
 
 ## IDEs and Text Editors
 
