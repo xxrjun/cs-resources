@@ -35,6 +35,9 @@
 ## Documentations
 
 - [**Markdown**](https://www.markdownguide.org/)
+
+       - [**ikatyang/emoji-cheat-sheet**](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
 - [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/)
 - [**AsciiDoc**](https://asciidoc.org/)
 
