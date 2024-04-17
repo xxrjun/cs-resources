@@ -3,6 +3,7 @@ site_author: xxrjun
 
 repo_name: cs-resources
 repo_url: https://github.com/xxrjun/cs-resources
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -24,6 +25,7 @@ theme:
   features:
     - navigation.instant
     - content.tabs.link
+    - content.action.edit
 
 markdown_extensions:
   - abbr
@@ -56,3 +58,11 @@ extra_css:
 
 copyright: >
   Copyright &copy; 2023 - present, xxrjun, All rights reserved.
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: xxrjun/cs-resources
+      branch: main
