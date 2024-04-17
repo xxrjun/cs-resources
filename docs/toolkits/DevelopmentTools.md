@@ -32,6 +32,10 @@
 
 - [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown 的好用套件，可以預覽、自動排版等等。
 
+- [**ShellCheck**](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
+
+      - [**ShellCheck Website**](https://www.shellcheck.net/)
+
 ## Terminals
 
 - [**Windows Terminal**](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
