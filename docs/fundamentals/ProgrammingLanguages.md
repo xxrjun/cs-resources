@@ -12,7 +12,8 @@
 - [**Java Design Pattern**](https://java-design-patterns.com/patterns/)
 - [**Codecademy Learn Java**](https://www.codecademy.com/learn/learn-java) - Java 基礎，Lesson 部分免費，其他 Quiz、Projects 的部分要付費。
 - [**OpenHome Java**](https://openhome.cc/zh-tw/java/) - 林信良老師(良葛格)撰寫的 Java 中文教材。我們永遠記得您的偉大...
-  - [**OpenHome Gossip 語言技術：Java Essence**](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師(良葛格)撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
+
+      - [**OpenHome Gossip 語言技術：Java Essence**](https://openhome.cc/Gossip/JavaEssence/) - 林信良老師(良葛格)撰寫的 Java 本質部分，「千萬別急著飛翔，卻忘了如何起步」
 
 ## C++
 
@@ -20,8 +21,9 @@
 - [**OpenHome 語言技術：C++ Gossip**](https://openhome.cc/Gossip/CppGossip/index.html) - 林信良老師(良葛格)撰寫的 C++ 中文教材
 - [**Standard C++ Library reference (cplusplus)**](https://cplusplus.com/reference/) - 英文標準函式庫文件
 - [**CS106L Standard C++ Programming - Stanfard**](https://web.stanford.edu/class/cs106l/)
-  - [**Fall 2019 Youtube Playlist**](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA) - Youtube 課程播放清單
-  - [**Winter 2018 Course Website**](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1184/index.html) - 課程網站，有 slides 跟 assignments
+
+      - [**Fall 2019 Youtube Playlist**](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA) - Youtube 課程播放清單
+      - [**Winter 2018 Course Website**](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1184/index.html) - 課程網站，有 slides 跟 assignments
 
 ## Python
 

@@ -1,8 +1,6 @@
 # CS Resources
 
-!!! Danger
-
-        🛠️ 網站大改版中
+!!! Danger "🛠️ 網站大改版中"
 
 ![Banner](./src/banner.png){ width="800" }
 

@@ -23,12 +23,10 @@ theme:
     code: Roboto Mono
     text: Josefin Sans
   features:
-    - navigation.instant
     - content.tabs.link
-    - navigation.top
-    # - navigation.sections
     - navigation.path
-    - navigation.expand
+    # - navigation.sections
+    
 markdown_extensions:
   - abbr
   - attr_list
@@ -52,11 +50,36 @@ nav:
   - Platforms:
     - Youtube Channels: platforms/YoutubeChannels.md
     - GitHub Repositories: platforms/GitHubRepositories.md
-  - Programming Languages: ProgrammingLanguages.md
-  - Web Development: WebDevelopment.md
-  # - Academic: Academic.md
-  # - 考研: 考研.md
+    - News: platforms/News.md
+  - Fundamentals:
+    - Introduction: fundamentals/IntroductionToComputerScience.md
+    - Programming Languages: fundamentals/ProgrammingLanguages.md
+    - Data Structures and Algorithms: fundamentals/DataStructuresAndAlgorithms.md
+    - Computer Networking: fundamentals/ComputerNetworking.md
+    - Operating Systems: fundamentals/OperatingSystems.md
+    - Compilers: fundamentals/Compilers.md
+    # - Databases: fundamentals/Databases.md
+  - Mathematics:
+    - Calculus: mathematics/Calculus.md
+    - Linear Algebra: mathematics/LinearAlgebra.md
+    # - Discrete Mathematics: mathematics/discrete-mathematics.md
+    # - Probability and Statistics: Mathematics/ProbabilityAndStatistics.md
+  - Web Development:
+    - Beginning: web/Beginning.md
+    - Frontend: web/Frontend.md
+    - Backend: web/Backend.md
+  - Machine Learning: machine-learning.md
+  - LLM: llm.md
+  - Specialized Fields:
+    - Data Science: specialized-fields/data-science.md
+    - Quantum Computing: specialized-fields/quantum-computing.md
+    # - DevOps: specialized-fields/devops.md
+  - Career:
+    - Graduate Entrance Examination: careers/graduate-entrance-examination.md
+    - Interview Preparation: careers/Interview.md
+    # - Resume and Portfolio: careers/resume-and-portfolio.md
   - My Setup: MySetup.md
+  # - About Me: AboutMe.md
 
 extra_css:
   - stylesheets/extra.css

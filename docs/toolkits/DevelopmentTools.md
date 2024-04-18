@@ -45,7 +45,13 @@
       - [**oh-my-zsh**](https://ohmyz.sh/) - zsh 開源框架，可以改主題、安裝套件。
       - [**zsh-autosuggestions**](https://github.com/zsh-users/zsh-autosuggestions) - zsh 自動補全套件。
 
-## Verion Control
+### SSH Agent
+
+- [**Terminus**](https://termius.com/) - 支援多種作業系統平台，連手機平板都有 App 版本。Student Developer Pack 有免費專業版。
+
+- [**MobaXterm**](https://mobaxterm.mobatek.net/)
+
+## Version Control
 
 - [**Git**](https://gitforwindows.org/)
 
