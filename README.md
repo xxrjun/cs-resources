@@ -1,15 +1,18 @@
+> [!IMPORTANT]
+> 大改版中：[xxrjun.github.io/cs-resources/](https://xxrjun.github.io/cs-resources/)
+
 <img id="banner" src="./src/banner.png" align="center"/>
 
-> 作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫碼海中留下一點痕跡。
->
-> 期許自己的血液裡都流著程式碼的那天。
+> 作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫碼海中留下一點痕跡
+
+> 期許自己的血液裡都流著程式碼的那天
 
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [開發工具 Developer Tools](#開發工具-developer-tools)
   - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
-  - [IDE \& Text Editor](#ide--text-editor)
+  - [IDE and Text Editor](#ide-and-text-editor)
   - [其他工具 Other Tools](#其他工具-other-tools)
 - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
   - [Java](#java)
@@ -27,7 +30,6 @@
 - [網頁開發 Web Development](#網頁開發-web-development)
   - [初來乍到 Beginner](#初來乍到-beginner)
   - [後端開發 Backend Development](#後端開發-backend-development)
-    - [後端知識 Backend Knowledge](#後端知識-backend-knowledge)
 - [量子 Quantum](#量子-quantum)
 - [AI \& Machine Learning](#ai--machine-learning)
 - [考資工所](#考資工所)
@@ -59,7 +61,7 @@
 
 - [GitHub Desktop](https://desktop.github.com/) - 也是提供圖形化介面的軟體，適合新手入門操作，不過功能有限。
 
-### IDE & Text Editor
+### IDE and Text Editor
 
 - [VSCode](https://code.visualstudio.com/) - 強大又免費的文字編輯器，可以安裝許多，支援許多語言環境，還可以安裝許多方便好用的套件。
 
@@ -70,9 +72,10 @@
 
 ### 其他工具 Other Tools
 
-- [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701) 
+- [Windows Terminal](https://www.microsoft.com/zh-tw/p/windows-terminal/9n0dx20hk701)
 
-- [ChatGPT](https://openai.com/blog/chatgpt) (*Plus is highly recommended*)
+- [ChatGPT](https://openai.com/blog/chatgpt) (_Plus is highly recommended_)
+
   - [Prompt Engineering Guide 提示工程指南](https://promptingguide.azurewebsites.net/) - 2023 顯學?
 
 - [GitHub Copilot](https://github.com/features/copilot)
@@ -81,8 +84,8 @@
 
 ## 程式語言學習 (Programming Language)
 
-> 長期而言，技術來來去去，語言也來來去去，精通一種技術或語言，並不能保證你長期的發展。  
-> 
+> 長期而言，技術來來去去，語言也來來去去，精通一種技術或語言，並不能保證你長期的發展。
+>
 > 你的目標不必侷限在學習甚麼語言或框架，只要吃透基礎知識，你可以學會任何你想要的東西。
 
 ### Java
@@ -115,14 +118,13 @@
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html) - Python 官方文件教程，有多種語言可以選擇。
 
-
 - [CS 61A: Structure and Interpretation of Computer Programs - UC Berkely](https://inst.eecs.berkeley.edu/~cs61a/fa20/) - 前半部以 Python 為主，後面包含 Scheme, SQL。本課程強調抽象，學習掌握程序來解決實際問題。
 
 ### Golang
 
 - [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 
-### Rust 
+### Rust
 
 - [Rust 程式設計語言](https://rust-lang.tw/book-tw/) - 由 Steve Klabnik 與 Carol Nichols，以及 Rust 社群的貢獻撰寫而成。由台灣社群翻譯。
 
@@ -148,7 +150,7 @@
 
 ### 演算法 Algorithm
 
-- [NCYU Algorithms](https://ocw.nctu.edu.tw/course_detail-v.php?bgid=8&gid=0&nid=493)
+- [NYCU Algorithms](https://ocw.nycu.edu.tw/?post_type=course_page&p=62057)
 
 - [2019 Fall 台大資工 演算法設計與分析 NTU CSIE ADA](https://www.csie.ntu.edu.tw/~yvchen/f107-ada/)
 
@@ -245,9 +247,13 @@
 
 ### GitHub
 
-- [科技爱好者周刊](https://github.com/ruanyf/weekly) - 記錄每周值得分享的科技內容，每周五發布。很多很有趣的科技新聞跟酷酷的東西!
+- [**科技爱好者周刊**](https://github.com/ruanyf/weekly)
 
-- [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - GitHub 上有趣、入門級的開源項目。
+  記錄每周值得分享的科技內容，每周五發布。很多很有趣的科技新聞跟酷酷的東西!
+
+- [**HelloGitHub**](https://github.com/521xueweihan/HelloGitHub)
+
+  GitHub 上有趣、入門級的開源項目。
 
 ### Youtube Channels
 

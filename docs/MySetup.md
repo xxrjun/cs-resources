@@ -2,11 +2,13 @@
 
 > :octicons-heart-fill-24:{ .heart } means I love it so much and highly recommend it.
 
-## Computers
+## Computing Devices
 
-- Windows 11: i5-12400k, RTX 2060 12GB, 64GB RAM, 512GB + 1TB SSD
+- Windows Desktop, i5-12400k, RTX 2060 12GB, 64GB RAM, 512GB + 1TB SSD
 
-- :octicons-heart-fill-24:{ .heart } MacOS: MacBook Pro 2022, 13-inch, Apple M2, 24GB RAM, 512GB SSD
+- :octicons-heart-fill-24:{ .heart } MacBook Pro 2022, 13-inch, Apple M2, 24GB RAM, 512GB SSD
+
+- :octicons-heart-fill-24:{ .heart } iPad Pro 11" Gen 4, Apple Pencil 2
 
 ## Keyboards and Mice
 
@@ -24,12 +26,14 @@
 - :octicons-heart-fill-24:{ .heart } [**Irocks T07 Plus**](https://www.i-rocks.com.tw/web/product/product_in.jsp?pd_no=PD1658815288091&lang=tw)
 - :octicons-heart-fill-24:{ .heart } [**Cougar Armor S Black Gaming Chair**](https://cougargaming.com/products/chairs/armor_s/)
 
-## Accessories
+## Lighting
 
 - :octicons-heart-fill-24:{ .heart } [**Mi Computer Monitor Light Bar**](https://www.mi.com/global/product/mi-computer-monitor-light-bar/)
 - :octicons-heart-fill-24:{ .heart } [**BenQ WiT e-Reading Desk Lamp**](https://www.benq.com/en-us/lighting/e-reading-desk-lamp/e-reading/buy.html?gad_source=1&gclid=CjwKCAjww_iwBhApEiwAuG6ccJ7XaGV5hmN65g-G-9-qMzcab7B1vphG2zPtzFM9_Un8mQBT3WWwZhoC7JsQAvD_BwE)
 
-## Subscriptions
+## Productivity Subscriptions
 
 - :octicons-heart-fill-24:{ .heart } [**ChatGPT Plus**](https://chat.openai.com/)
 - :octicons-heart-fill-24:{ .heart } [**Claude Pro**](https://claude.ai/)
+- :octicons-heart-fill-24:{ .heart } [**Youtube Premium**](https://www.youtube.com/premium)
+- :octicons-heart-fill-24:{ .heart } [**Spotify Premium**](https://www.spotify.com/)

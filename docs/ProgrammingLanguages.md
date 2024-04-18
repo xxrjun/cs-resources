@@ -37,3 +37,9 @@
 - [**Rust 程式設計語言**](https://rust-lang.tw/book-tw/) - 由 Steve Klabnik 與 Carol Nichols，以及 Rust 社群的貢獻撰寫而成。由台灣社群翻譯。
 - [**Learn Rust With Entirely Too Many Linked Lists**](https://rust-unofficial.github.io/too-many-lists/index.html) - 透過許多 Linked Lists 學習 Rust。內容寫得很完整。
 - [**CS110L: Safety in Systems Programming Spring 2020**](https://reberhardt.com/cs110l/spring-2020/) - Stanford 大學比較進階的課程，透過這門課學習 Rust 語言。
+
+!!! tip "Further Reading"
+
+    - [**6 Tips to Improve Your Coding Speed**](https://oozou.com/blog/6-tips-to-improve-your-coding-speed-lazy-edition-89)
+
+    - [**5 Keyboard Shortcuts to Navigate Your Code Faster**](https://owenconti.com/posts/5-keyboard-shortcuts-to-navigate-your-code-faster)

@@ -1,5 +1,5 @@
 aiohttp>=3.7.4
 tabulate>=0.8.7
-mkdocs-git-revision-date-localized-plugin
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
+mkdocs-git-committers-plugin-2

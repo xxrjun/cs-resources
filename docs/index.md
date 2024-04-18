@@ -1,5 +1,9 @@
 # CS Resources
 
+!!! Danger
+
+        🛠️ 網站大改版中
+
 ![Banner](./src/banner.png){ width="800" }
 
 > 作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫碼海中留下一點痕跡
