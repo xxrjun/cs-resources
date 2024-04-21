@@ -68,8 +68,9 @@ nav:
     - Beginning: web/Beginning.md
     - Frontend: web/Frontend.md
     - Backend: web/Backend.md
-  - Machine Learning: machine-learning.md
-  - LLM: llm.md
+  - Machine Learning:
+    - LLM: ml/llm.md
+  - Software Engineering: SoftwareEngineering.md 
   - Specialized Fields:
     - Data Science: specialized-fields/data-science.md
     - Quantum Computing: specialized-fields/quantum-computing.md
