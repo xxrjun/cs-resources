@@ -27,6 +27,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
           publish_dir: ./report
+          destination_dir: report
           keep_files: true
 
   deploy:
