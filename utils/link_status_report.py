@@ -70,11 +70,13 @@ async def generate_report(folder_path, report_path):
                 border-collapse: collapse;
                 width: 100%;
                 margin-bottom: 30px;
+                table-layout: fixed;
             }
             th, td {
                 border: 1px solid #444;
                 padding: 12px;
                 text-align: left;
+                word-wrap: break-word;
             }
             th {
                 background-color: #333;

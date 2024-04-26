@@ -20,7 +20,9 @@ jobs:
       - run: |
           python -m pip install --upgrade pip
           pip install aiohttp
-      - run: python ./utils/link_status_report.py
+      - run: |
+          cd utils
+          python link_status_report.py
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
