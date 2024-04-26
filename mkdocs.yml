@@ -57,8 +57,8 @@ nav:
     - Programming Languages: fundamentals/ProgrammingLanguages.md
     - Data Structures and Algorithms: fundamentals/DataStructuresAndAlgorithms.md
     - Computer Networking: fundamentals/ComputerNetworking.md
-    - Operating Systems: fundamentals/OperatingSystems.md
-    - Compilers: fundamentals/Compilers.md
+    # - Operating Systems: fundamentals/OperatingSystems.md
+    # - Compilers: fundamentals/Compilers.md
     # - Databases: fundamentals/Databases.md
   - Mathematics:
     - Calculus: mathematics/Calculus.md
@@ -67,14 +67,14 @@ nav:
     # - Probability and Statistics: Mathematics/ProbabilityAndStatistics.md
   - Web Development:
     - Beginning: web/Beginning.md
-    - Frontend: web/Frontend.md
+    # - Frontend: web/Frontend.md
     - Backend: web/Backend.md
-  - Machine Learning:
-    - LLM: ml/llm.md
-  - Software Engineering: SoftwareEngineering.md 
+  # - Machine Learning:
+    # - LLM: ml/llm.md
+  # - Software Engineering: SoftwareEngineering.md 
   - Specialized Fields:
-    - Data Science: specialized-fields/data-science.md
-    - Quantum Computing: specialized-fields/quantum-computing.md
+    # - Data Science: specialized-fields/data-science.md
+    # - Quantum Computing: specialized-fields/quantum-computing.md
     # - DevOps: specialized-fields/devops.md
   - Career:
     - Graduate Entrance Examination: careers/graduate-entrance-examination.md
