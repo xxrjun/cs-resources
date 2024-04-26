@@ -72,7 +72,7 @@ nav:
   # - Machine Learning:
     # - LLM: ml/llm.md
   # - Software Engineering: SoftwareEngineering.md 
-  - Specialized Fields:
+  # - Specialized Fields:
     # - Data Science: specialized-fields/data-science.md
     # - Quantum Computing: specialized-fields/quantum-computing.md
     # - DevOps: specialized-fields/devops.md
