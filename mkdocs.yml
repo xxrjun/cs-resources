@@ -82,6 +82,7 @@ nav:
     # - Resume and Portfolio: careers/resume-and-portfolio.md
   - My Setup: MySetup.md
   # - About Me: AboutMe.md
+  - Link Status Report: links_status_report.html
 
 extra_css:
   - stylesheets/extra.css
