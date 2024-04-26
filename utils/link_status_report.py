@@ -132,6 +132,6 @@ async def generate_report(folder_path, report_path):
 
 if __name__ == "__main__":
     markdown_folder_path = '../docs'
-    report_path = '../links_status_report.html'
+    report_path = '../report/links_status_report.html'
     report_path = asyncio.run(generate_report(markdown_folder_path, report_path))
     print(f"Link status report generated for markdown files in {markdown_folder_path} at {report_path}")
