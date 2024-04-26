@@ -2,7 +2,7 @@
 
 !!! Danger "🛠️ 網站大改版中"
 
-!!! success "[**Link Status Report**](https://xxrjun.github.io/cs-resources/link-status-report/links_report.html)"
+!!! success "[**Link Status Report**](./links_status_report.html)"
 
 ![Banner](./src/banner.png){ width="800" }
 
