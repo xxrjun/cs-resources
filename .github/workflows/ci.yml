@@ -23,9 +23,8 @@ jobs:
       - run: python ./utils/link_status_report.py
       - uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./
-          destination_dir: link-status-report
+          github_token: ${{ secrets.GITHUB_TOKEN}}
+          publish_dir: ./publish
           keep_files: true
 
   deploy:
