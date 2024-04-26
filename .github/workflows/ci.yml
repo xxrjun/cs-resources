@@ -23,6 +23,7 @@ jobs:
       - run: |
           cd utils
           python link_status_report.py
+      - run: ls -l report
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN}}
