@@ -1,4 +1,4 @@
-# Daily Utility Tools
+# Daily Tools
 
 ## AI Tools
 
@@ -13,17 +13,29 @@
 
 - [**Perplexity**](https://www.perplexity.ai/)
 
-## Applications
+## General Applications
 
 - [**Notion**](https://www.notion.so/) - 知識管理、筆記、團隊協作等等，功能強大。
 - [**flameshot**](https://flameshot.org/) - 開源截圖工具，可以在截圖時就加入文字、箭頭等等記號。
 - [**f.lux**](https://justgetflux.com/) - 護眼好幫手，可以調整螢幕亮度、色溫。
 
+## Communication Apps
+
+- [**Slack**](https://slack.com/) - 團隊溝通、訊息、檔案分享等等。
+  
+- [**Discord**](https://discord.com/) - 遊戲、社群、工作等等，都可以使用。
+  
+    - [**BetterDiscord**](https://betterdiscord.app/) - Discord 的插件，可以自訂主題、功能等等。
+
 ## Browser Extensions
 
 - [**Dark Reader**](https://chromewebstore.google.com/detail/eimadpbcbfnmbkopoojfekhnkhdbieeh) - 網頁黑暗模式，護眼好幫手。
+
 - [**Vimium**](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) - 瀏覽器快捷鍵，可以不用滑鼠就可以操作瀏覽器。
+
 - [**Video Speed Controller**](https://chromewebstore.google.com/detail/nffaoalbilbmmfgbnbgppjihopabppdk) - 網頁影片加速工具，可以自訂快捷鍵。
+
+- [**GoFullPage - Full Page Screen Capture**](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?&utm_source=ext_sidebar) - 網頁截圖工具，可以截取整個頁面，相當方便。
 
 ## Drawing Tools
 
