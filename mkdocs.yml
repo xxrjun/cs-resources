@@ -60,11 +60,10 @@ nav:
     # - Operating Systems: fundamentals/OperatingSystems.md
     # - Compilers: fundamentals/Compilers.md
     # - Databases: fundamentals/Databases.md
-  - Mathematics:
-    - Calculus: mathematics/Calculus.md
-    - Linear Algebra: mathematics/LinearAlgebra.md
+  # - Mathematics:
+  #   - Calculus: mathematics/Calculus.md
+  #   - Linear Algebra: mathematics/LinearAlgebra.md
     # - Discrete Mathematics: mathematics/discrete-mathematics.md
-    # - Probability and Statistics: Mathematics/ProbabilityAndStatistics.md
   - Web Development:
     - Beginning: web/Beginning.md
     # - Frontend: web/Frontend.md
@@ -77,7 +76,7 @@ nav:
     # - Quantum Computing: specialized-fields/quantum-computing.md
     # - DevOps: specialized-fields/devops.md
   - Career:
-    - Graduate Entrance Examination: careers/graduate-entrance-examination.md
+    # - Graduate Entrance Examination: careers/graduate-entrance-examination.md
     - Interview Preparation: careers/Interview.md
     # - Resume and Portfolio: careers/resume-and-portfolio.md
   - My Setup: MySetup.md
