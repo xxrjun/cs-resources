@@ -8,7 +8,15 @@
 
     使用甚麼工具以及技術因專案需求、個人習慣等情況而異，以下僅是自己常用的工具與技術。
 
-## Java Spring Boot
+## Web API Design
+
+- [**Guidelines for designing REST APIs at Cisco**](https://github.com/CiscoDevNet/api-design-guide#references)
+
+- [**marmelab/awesome-rest**](https://github.com/marmelab/awesome-rest)
+
+## Web Server Framework
+
+### Java Spring Boot
 
 - [**Spring Boot Official Documents**](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
@@ -20,14 +28,8 @@
 
       - 使用教學 [如何在 Spring Boot 與 Maven 專案加入 JaCoCo 測試覆蓋率報告(VSCode)](https://blog.miniasp.com/post/2021/08/11/Spring-Boot-Maven-JaCoCo-Test-Coverage-Report-in-VSCode)
 
-## NodeJS
+### NodeJS
 
 - [**NodeJS Official**](https://nodejs.org/en)
 
 - [**ExpressJS**](https://nodejs.org/en) - NodeJS 的 Web 應用程式框架
-
-## Web API Design
-
-- [**Guidelines for designing REST APIs at Cisco**](https://github.com/CiscoDevNet/api-design-guide#references)
-
-- [**marmelab/awesome-rest**](https://github.com/marmelab/awesome-rest)
