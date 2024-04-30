@@ -1,5 +1,24 @@
+# CS Resources
+
 > [!IMPORTANT]
 > 大改版中：[xxrjun.github.io/cs-resources/](https://xxrjun.github.io/cs-resources/)
+
+<details><summary>Changelog</summary>
+
+[2024/04/16] 開始大改版並使用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+
+</details>
+
+<details><summary>Schedule</summary>
+
+[2024/07/15] 預計套入 i18n 語言包
+
+[2024/07/05] 預計導入一頁式功能
+
+[2024/06/31] 預計完成繁中版本 v1.0
+
+</details>
+
 
 <img id="banner" src="./src/banner.png" align="center"/>
 
@@ -9,35 +28,36 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [開發工具 Developer Tools](#開發工具-developer-tools)
-  - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
-  - [IDE and Text Editor](#ide-and-text-editor)
-  - [其他工具 Other Tools](#其他工具-other-tools)
-- [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
-  - [Java](#java)
-  - [C++](#c)
-  - [Python](#python)
-  - [Golang](#golang)
-  - [Rust](#rust)
-- [知識 Knowledge](#知識-knowledge)
-  - [計算機概論 Introduction to Computer Science](#計算機概論-introduction-to-computer-science)
-  - [資料結構 Data Structure](#資料結構-data-structure)
-  - [演算法 Algorithm](#演算法-algorithm)
-  - [計算機網路 Computer Networking](#計算機網路-computer-networking)
-  - [作業系統 Operating System](#作業系統-operating-system)
-  - [資料科學 Data Science](#資料科學-data-science)
-- [網頁開發 Web Development](#網頁開發-web-development)
-  - [初來乍到 Beginner](#初來乍到-beginner)
-  - [後端開發 Backend Development](#後端開發-backend-development)
-- [量子 Quantum](#量子-quantum)
-- [AI \& Machine Learning](#ai--machine-learning)
-- [考資工所](#考資工所)
-- [面試 Interview](#面試-interview)
-- [平台與社群媒體 (Platform \& Socia Media)](#平台與社群媒體-platform--socia-media)
-  - [GitHub](#github)
-  - [Youtube Channels](#youtube-channels)
-  - [Podcast](#podcast)
+- [CS Resources](#cs-resources)
+  - [Table of Contents](#table-of-contents)
+  - [開發工具 Developer Tools](#開發工具-developer-tools)
+    - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
+    - [IDE and Text Editor](#ide-and-text-editor)
+    - [其他工具 Other Tools](#其他工具-other-tools)
+  - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
+    - [Java](#java)
+    - [C++](#c)
+    - [Python](#python)
+    - [Golang](#golang)
+    - [Rust](#rust)
+  - [知識 Knowledge](#知識-knowledge)
+    - [計算機概論 Introduction to Computer Science](#計算機概論-introduction-to-computer-science)
+    - [資料結構 Data Structure](#資料結構-data-structure)
+    - [演算法 Algorithm](#演算法-algorithm)
+    - [計算機網路 Computer Networking](#計算機網路-computer-networking)
+    - [作業系統 Operating System](#作業系統-operating-system)
+    - [資料科學 Data Science](#資料科學-data-science)
+  - [網頁開發 Web Development](#網頁開發-web-development)
+    - [初來乍到 Beginner](#初來乍到-beginner)
+    - [後端開發 Backend Development](#後端開發-backend-development)
+  - [量子 Quantum](#量子-quantum)
+  - [AI \& Machine Learning](#ai--machine-learning)
+  - [考資工所](#考資工所)
+  - [面試 Interview](#面試-interview)
+  - [平台與社群媒體 (Platform \& Socia Media)](#平台與社群媒體-platform--socia-media)
+    - [GitHub](#github)
+    - [Youtube Channels](#youtube-channels)
+    - [Podcast](#podcast)
 
 包含中文及英文資源
 
