@@ -30,7 +30,7 @@
 
 - [**Dracula Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - 個人最喜歡的主題。
 
-- [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown 的好用套件，可以預覽、自動排版等等。
+- [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown 的好用套件，可以預覽、建立 table of content、自動排版等等。
 
 - [**ShellCheck**](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 
@@ -55,20 +55,27 @@
 
 - [**Git**](https://gitforwindows.org/)
 
-- [**GitHub**](https://github.com/)
-
-      目前全球最大的 Git Server、原始碼代管服務平台，各種開源軟體的聚集地。同時也是工程師的社群平台。題外話，2020 年之前的程式碼都存在北極，有 bug 也刪不掉。
+- [**GitHub**](https://github.com/) - 目前全球最大的 Git Server、原始碼代管服務平台，各種開源軟體的聚集地。同時也是工程師的社群平台。題外話，2020 年之前的程式碼都存在北極，有 bug 也刪不掉。
 
       - [**ProGit Book**](https://git-scm.com/book/en/v2) 官方提供的完整文件，部分語言翻譯不全，故推薦看英文。
       - [**Will 保哥: 30 天精通 Git 版本控管**](https://github.com/doggy8088/Learn-Git-in-30-days)
 
-- [**SourceTree**](https://www.sourcetreeapp.com/)
+- [**SourceTree**](https://www.sourcetreeapp.com/) - 一款提供 GUI 界面來管理版本控制內容的軟體，功能完整。
 
-      一款提供 GUI 界面來管理版本控制內容的軟體，功能完整。
+- [**GitHub Desktop**](https://desktop.github.com/) - 也是提供圖形化介面的軟體，適合新手入門操作，不過功能有限。
 
-- [**GitHub Desktop**](https://desktop.github.com/)
+## Documentations
 
-      也是提供圖形化介面的軟體，適合新手入門操作，不過功能有限。
+- [**Markdown**](https://www.markdownguide.org/)
+
+       - [**ikatyang/emoji-cheat-sheet**](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
+
+- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/getting-started/) - MkDocs 的主題套件，可以快速建立文件網站。
+
+- [**AsciiDoc**](https://asciidoc.org/)
+
+- [**Docusaurus**](https://docusaurus.io/) - Facebook 出品的文件生成工具，可以快速建立文件網站。
+
 
 ## Code Completion Tools
 
@@ -77,6 +84,13 @@
 !!! tip
 
       More: [**Daily Tools | AI Tools**](./DailyTools.md#ai-tools)
+
+## Code Quality
+
+- [**SonarQube**](https://www.sonarqube.org/) - 一款程式碼品質管理工具，可以檢查程式碼的品質，並提供報告。
+
+      - [**SonarLint**](https://www.sonarsource.com/products/sonarlint/) - IDE 套件，可以在 IDE 中即時檢查程式碼品質。
+      - [**SonarCloud**](https://www.sonarsource.com/products/sonarcloud/) - 雲端版的 SonarQube，可以連結 GitHub 進行自動檢查。
 
 ## Operating Systems
 
