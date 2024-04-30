@@ -68,6 +68,7 @@ nav:
     - Beginning: web/Beginning.md
     # - Frontend: web/Frontend.md
     - Backend: web/Backend.md
+    - CMS: web/CMS.md
   # - Machine Learning:
     # - LLM: ml/llm.md
   # - Software Engineering: SoftwareEngineering.md 
