@@ -1,4 +1,4 @@
-# Machine Learning News and Blogs
+# News and Blogs
 
 - [**Anthropic's News**](https://www.anthropic.com/news)
 
