@@ -69,7 +69,8 @@ nav:
     # - Frontend: web/Frontend.md
     - Backend: web/Backend.md
     - CMS: web/CMS.md
-  # - Machine Learning:
+  - Machine Learning:
+    - News and Blogs: ml/NewsAndBlogs.md
     # - LLM: ml/llm.md
   # - Software Engineering: SoftwareEngineering.md 
   # - Specialized Fields:
