@@ -22,6 +22,8 @@
 
 ## IDE Extensions
 
+- [**GitHub Copilot**](https://github.com/features/copilot)
+
 - [**Prettier - Code formatter**](https://prettier.io/) - 文字排版對齊工具，基本上是必備。
 
 - [**GitLens**](https://www.gitkraken.com/gitlens) - Git 超好用的套件，包含圖形化、比較分支差異等等好處說不完。
@@ -34,7 +36,10 @@
 
 - [**ShellCheck**](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 
+
       - [**ShellCheck Website**](https://www.shellcheck.net/)
+
+- [**Ruff**](https://github.com/astral-sh/ruff) - 一個非常快速的 Python linter 和程式碼格式化程式，是使用 Rust 編寫的。
 
 ## Terminals
 
