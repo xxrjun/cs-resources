@@ -8,6 +8,8 @@
 
 - [**LinkedIn Engineering Blog**](https://www.linkedin.com/blog/engineering) - Technology that sparks innovation to ignite growth
 
+- [**Hugginface Blog**](https://huggingface.co/blog)
+
 - [**Advancing AI for humanity**](https://thegenerality.com/agi/index.html)
 
 - [**Software 2.0 - V7's Blog**](https://www.v7labs.com/blog) - Fresh insights from the world of AI, keeping you informed on every evolution.
