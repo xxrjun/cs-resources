@@ -10,6 +10,10 @@
 
 - [**Top trending papers in Computer Science**](https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories)
 
+## Useful Websites
+
+- [**OpenReviews**](https://openreview.net/) - Conference Paper 的開放評論平台。
+  
 ## Tools
 
 - [**Connected Papers**](https://www.connectedpapers.com/) - 視覺化工具，用於探索和理解學術論文之間的關聯。
