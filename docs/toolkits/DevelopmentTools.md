@@ -19,6 +19,7 @@
 - [**Vim**](https://www.vim.org/) - 用滑鼠是非常累的一件事
 
       - [**vimrc 設定教學**](https://wiki.csie.ncku.edu.tw/vim/vimrc)
+      - [**Vim Cheat Sheet**](https://vim.rtorr.com/)
 
 ## IDE Extensions
 
