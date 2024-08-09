@@ -64,13 +64,14 @@ nav:
   #   - Calculus: mathematics/Calculus.md
   #   - Linear Algebra: mathematics/LinearAlgebra.md
     # - Discrete Mathematics: mathematics/discrete-mathematics.md
+  - Machine Learning:
+    - Resources: ml/Resources.md
+    - News and Blogs: ml/NewsAndBlogs.md
   - Web Development:
     - Beginning: web/Beginning.md
     # - Frontend: web/Frontend.md
     - Backend: web/Backend.md
     - CMS: web/CMS.md
-  - Machine Learning:
-    - News and Blogs: ml/NewsAndBlogs.md
     # - LLM: ml/llm.md
   # - Software Engineering: SoftwareEngineering.md 
   # - Specialized Fields:

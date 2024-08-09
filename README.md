@@ -19,7 +19,6 @@
 
 </details>
 
-
 <img id="banner" src="./src/banner.png" align="center"/>
 
 > 作為自己學習 Computer Science 的紀錄與未來規劃，為自己在這茫茫碼海中留下一點痕跡
@@ -31,33 +30,14 @@
 - [CS Resources](#cs-resources)
   - [Table of Contents](#table-of-contents)
   - [開發工具 Developer Tools](#開發工具-developer-tools)
-    - [Git - 免費、開源的版本控制軟體](#git---免費開源的版本控制軟體)
-    - [IDE and Text Editor](#ide-and-text-editor)
-    - [其他工具 Other Tools](#其他工具-other-tools)
   - [程式語言學習 (Programming Language)](#程式語言學習-programming-language)
-    - [Java](#java)
-    - [C++](#c)
-    - [Python](#python)
-    - [Golang](#golang)
-    - [Rust](#rust)
   - [知識 Knowledge](#知識-knowledge)
-    - [計算機概論 Introduction to Computer Science](#計算機概論-introduction-to-computer-science)
-    - [資料結構 Data Structure](#資料結構-data-structure)
-    - [演算法 Algorithm](#演算法-algorithm)
-    - [計算機網路 Computer Networking](#計算機網路-computer-networking)
-    - [作業系統 Operating System](#作業系統-operating-system)
-    - [資料科學 Data Science](#資料科學-data-science)
   - [網頁開發 Web Development](#網頁開發-web-development)
-    - [初來乍到 Beginner](#初來乍到-beginner)
-    - [後端開發 Backend Development](#後端開發-backend-development)
   - [量子 Quantum](#量子-quantum)
   - [AI \& Machine Learning](#ai--machine-learning)
   - [考資工所](#考資工所)
   - [面試 Interview](#面試-interview)
   - [平台與社群媒體 (Platform \& Socia Media)](#平台與社群媒體-platform--socia-media)
-    - [GitHub](#github)
-    - [Youtube Channels](#youtube-channels)
-    - [Podcast](#podcast)
 
 包含中文及英文資源
 
