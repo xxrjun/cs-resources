@@ -2,6 +2,8 @@
 
 > [!IMPORTANT]
 > 大改版中：[xxrjun.github.io/cs-resources/](https://xxrjun.github.io/cs-resources/)
+> 
+> In order to further study knowledge related to Machine Learning, I have created a separate repository named [xxrjun/ml-resources](https://github.com/xxrjun/ml-resources). Check the website [here](https://xxrjun.github.io/ml-resources/)!
 
 <details><summary>Changelog</summary>
 

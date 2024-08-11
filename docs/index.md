@@ -2,6 +2,8 @@
 
 !!! Danger "🛠️ 網站大改版中"
 
+!!! tip "In order to further study knowledge related to Machine Learning, I have created a separate repository named [xxrjun/ml-resources](https://github.com/xxrjun/ml-resources). Check the website [here](https://xxrjun.github.io/ml-resources/)!" 
+
 !!! success "[**Link Status Report**](./links_status_report.html)"
 
 ![Banner](./src/banner.png){ width="800" }

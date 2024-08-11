@@ -1,5 +1,7 @@
 # News and Blogs
 
+!!! tip "In order to further study knowledge related to Machine Learning, I have created a separate repository named [xxrjun/ml-resources](https://github.com/xxrjun/ml-resources). Check the website [here](https://xxrjun.github.io/ml-resources/)!"
+
 - [**Anthropic's News**](https://www.anthropic.com/news)
 
 - [**OpenAI's Blog**](https://www.openai.com/blog/)

@@ -1,4 +1,6 @@
-# Machinb Learning
+# Machine Learning
+
+!!! tip "In order to further study knowledge related to Machine Learning, I have created a separate repository named [xxrjun/ml-resources](https://github.com/xxrjun/ml-resources). Check the website [here](https://xxrjun.github.io/ml-resources/)!"
 
 <!-- 還沒讀過得先註解 -->
 <!-- - [**Prompt Engineering Guide**](https://www.promptingguide.ai/)
