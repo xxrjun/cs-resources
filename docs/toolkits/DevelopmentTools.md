@@ -37,10 +37,9 @@
 
 - [**ShellCheck**](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 
-
       - [**ShellCheck Website**](https://www.shellcheck.net/)
 
-- [**Ruff**](https://github.com/astral-sh/ruff) - 一個非常快速的 Python linter 和程式碼格式化程式，是使用 Rust 編寫的。
+- [**Resource Monitor**](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
 
 ## Terminals
 
