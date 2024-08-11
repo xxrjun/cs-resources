@@ -36,7 +36,7 @@ jobs:
           pip install aiohttp
       - run: |
           cd utils
-          python link_status_report.py
+          python links_status_report.py
           cd ..
       - run: mkdocs gh-deploy --force
 
