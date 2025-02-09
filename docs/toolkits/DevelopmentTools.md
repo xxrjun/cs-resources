@@ -23,15 +23,19 @@
 
 ## IDE Extensions
 
+### Productivity
+
 - [**GitHub Copilot**](https://github.com/features/copilot)
-
-- [**Prettier - Code formatter**](https://prettier.io/) - 文字排版對齊工具，基本上是必備。
-
-- [**GitLens**](https://www.gitkraken.com/gitlens) - Git 超好用的套件，包含圖形化、比較分支差異等等好處說不完。
 
 - [**WakaTime**](https://wakatime.com/) - 紀錄打 code 的時間，免費版最多紀錄兩周。
 
+- [**GitLens**](https://www.gitkraken.com/gitlens) - Git 超好用的套件，包含圖形化、比較分支差異等等好處說不完。
+
+## Theme & Style
+
 - [**Dracula Official**](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - 個人最喜歡的主題。
+
+- [**Prettier - Code formatter**](https://prettier.io/) - 文字排版對齊工具，基本上是必備。
 
 - [**Markdown All in One**](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown 的好用套件，可以預覽、建立 table of content、自動排版等等。
 
@@ -39,7 +43,11 @@
 
       - [**ShellCheck Website**](https://www.shellcheck.net/)
 
-- [**Resource Monitor**](https://marketplace.visualstudio.com/items?itemName=mutantdino.resourcemonitor)
+### Monitor
+
+- [**Monitor Pro**](https://marketplace.visualstudio.com/items?itemName=nexmoe.monitor-pro)
+
+- [**GPU Monitor**](https://marketplace.visualstudio.com/items?itemName=Maimonator.gpu-monitor)
 
 ## Terminals
 

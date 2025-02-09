@@ -8,16 +8,16 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   palette:
-    - media: "(prefers-color-scheme: dark)" 
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: red
       toggle:
-          icon: material/brightness-4
-          name: Switch to light mode
+        icon: material/brightness-4
+        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
   font:
     code: Roboto Mono
@@ -26,7 +26,7 @@ theme:
     - content.tabs.link
     - navigation.path
     # - navigation.sections
-    
+
 markdown_extensions:
   - abbr
   - attr_list
@@ -44,43 +44,43 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Toolkits:
-    - Development Tools: toolkits/DevelopmentTools.md
-    - Daily Tools: toolkits/DailyTools.md
-    - Thesis: toolkits/Thesis.md
-    - MIS: toolkits/MIS.md
+      - Development Tools: toolkits/DevelopmentTools.md
+      - Daily Tools: toolkits/DailyTools.md
+      - Thesis: toolkits/Thesis.md
+      - MIS: toolkits/MIS.md
   - Platforms:
-    - Youtube Channels: platforms/YoutubeChannels.md
-    - GitHub Repositories: platforms/GitHubRepositories.md
-    - News: platforms/News.md
+      - Youtube Channels: platforms/YoutubeChannels.md
+      - GitHub Repositories: platforms/GitHubRepositories.md
+      - News: platforms/News.md
   - Fundamentals:
-    - Introduction: fundamentals/IntroductionToComputerScience.md
-    - Programming Languages: fundamentals/ProgrammingLanguages.md
-    - Data Structures and Algorithms: fundamentals/DataStructuresAndAlgorithms.md
-    - Computer Networking: fundamentals/ComputerNetworking.md
+      - Introduction: fundamentals/IntroductionToComputerScience.md
+      - Programming Languages: fundamentals/ProgrammingLanguages.md
+      - Data Structures and Algorithms: fundamentals/DataStructuresAndAlgorithms.md
+      - Computer Networking: fundamentals/ComputerNetworking.md
     # - Operating Systems: fundamentals/OperatingSystems.md
     # - Compilers: fundamentals/Compilers.md
     # - Databases: fundamentals/Databases.md
   # - Mathematics:
   #   - Calculus: mathematics/Calculus.md
   #   - Linear Algebra: mathematics/LinearAlgebra.md
-    # - Discrete Mathematics: mathematics/discrete-mathematics.md
+  # - Discrete Mathematics: mathematics/discrete-mathematics.md
   - Machine Learning:
-    - Resources: ml/Resources.md
-    - News and Blogs: ml/NewsAndBlogs.md
+      - Resources: ml/Resources.md
+      - News and Blogs: ml/NewsAndBlogs.md
   - Web Development:
-    - Beginning: web/Beginning.md
-    # - Frontend: web/Frontend.md
-    - Backend: web/Backend.md
-    - CMS: web/CMS.md
+      - Beginning: web/Beginning.md
+      # - Frontend: web/Frontend.md
+      - Backend: web/Backend.md
+      - CMS: web/CMS.md
     # - LLM: ml/llm.md
-  # - Software Engineering: SoftwareEngineering.md 
+  # - Software Engineering: SoftwareEngineering.md
   # - Specialized Fields:
-    # - Data Science: specialized-fields/data-science.md
-    # - Quantum Computing: specialized-fields/quantum-computing.md
-    # - DevOps: specialized-fields/devops.md
+  # - Data Science: specialized-fields/data-science.md
+  # - Quantum Computing: specialized-fields/quantum-computing.md
+  # - DevOps: specialized-fields/devops.md
   - Career:
-    # - Graduate Entrance Examination: careers/graduate-entrance-examination.md
-    - Interview Preparation: careers/Interview.md
+      # - Graduate Entrance Examination: careers/graduate-entrance-examination.md
+      - Interview Preparation: careers/Interview.md
     # - Resume and Portfolio: careers/resume-and-portfolio.md
   - My Setup: MySetup.md
   # - About Me: AboutMe.md
@@ -99,7 +99,7 @@ plugins:
   - git-committers:
       repository: xxrjun/cs-resources
       branch: main
-
+  - open-in-new-tab:
 
 extra:
   social:
@@ -114,3 +114,6 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:a1094030@g.ncu.edu.tw
   generator: false
+  analytics:
+    provider: google
+    property: G-31L8TC96N9
